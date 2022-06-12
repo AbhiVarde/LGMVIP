@@ -1,7 +1,8 @@
 # LGMVIP
-Web Developer Intern
 
-TASK 1 : Create TODO list
+WEB DEVELOPER INTERN
+
+# TASK 1 : Create TODO list
 
 IDE : VScode
 Technologies : HTML,CSS,JavaScript
