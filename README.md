@@ -10,7 +10,7 @@ Technologies : HTML,CSS,JavaScript
 
 https://abhivarde.github.io/LGMVIP/Task%201/index.html tap here to visit my Task 1...
 
-# TASK 1 : Create a Regitration Form
+# TASK 3 : Create a Regitration Form
 
 IDE : VScode
 
