@@ -15,16 +15,16 @@ var list6 = [];
 
 		list1[x] = document.getElementById("Sname").value;
 		list2[x] = document.getElementById("enroll").value;
-		list3[x] = document.getElementById("sem").value;
-		list4[x] = document.getElementById("email").value;
-        list5[x] = document.getElementById("college").value;
+		list3[x] = document.getElementById("email").value;
+		list4[x] = document.getElementById("sem").value;
+                list5[x] = document.getElementById("college").value;
 			
 
 		var cel1 = NewRow.insertCell(0);
 		var cel2 = NewRow.insertCell(1);
 		var cel3 = NewRow.insertCell(2);
 		var cel4 = NewRow.insertCell(3);
-        var cel5 = NewRow.insertCell(4);
+                var cel5 = NewRow.insertCell(4);
 			
 
 		cel1.innerHTML = list1[x];
